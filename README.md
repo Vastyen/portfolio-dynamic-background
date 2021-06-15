@@ -13,7 +13,7 @@
           cd portfolio-dynamic-background/
           
           
-          * npm start 
+          Optional: npm start 
          
 
 ## Others S.O
