@@ -1,5 +1,12 @@
 # Portfolio Template with Dynamic Background
 
+## Preview
+
+<p align="center">
+  Lorem ipsum
+</p>
+
+
 # Usage
 
 ## Linux
