@@ -3,7 +3,7 @@
 ## Preview
 
 <p align="center">
-  Lorem ipsum
+  https://bastie.me/dynamic-portfolio/
 </p>
 
 
