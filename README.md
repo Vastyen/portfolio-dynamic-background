@@ -14,8 +14,8 @@
           sudo apt install git
           sudo apt-get update
           
-          mkdir script
-          cd script
+          mkdir portfolio
+          cd portfolio
           git clone https://github.com/Bescri/portfolio-dynamic-background
           cd portfolio-dynamic-background/
           
